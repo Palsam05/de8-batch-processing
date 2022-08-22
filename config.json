@@ -1,0 +1,9 @@
+{
+    "postgresql":{
+        "host":"172.22.87.100",
+        "db":"digitalskola",
+        "user":"postgres",
+        "pwd":"palambas",
+        "port":5432
+    }
+}
