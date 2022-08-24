@@ -3,7 +3,15 @@
         "host":"localhost",
         "db":"digitalskola",
         "user":"postgres",
-        "pwd":"postgres",
+        "pwd":"12345",
+        "port":5432
+    },
+    
+    "warehouse":{
+        "host":"localhost",
+        "db":"dwh_digitalskola",
+        "user":"postgres",
+        "pwd":"12345",
         "port":5432
     }
 }
